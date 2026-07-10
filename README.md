@@ -3,7 +3,7 @@
   <p><em>6+ agent skills for marketers doing GEO (Generative Engine Optimization). Content briefs, GEO rewriting, schema generation, competitor analysis, headline optimization, and social repurposing.</em></p>
   <p><a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"></a></p>
   <p>by <a href="https://brandvirality.com">BrandVirality</a> — <strong>SaaS for AI visibility.</strong>
-  <p><strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma</a></p>
+  <p><strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma — Expert in AI Visibility</a></p>
 </div>
 
 ---
