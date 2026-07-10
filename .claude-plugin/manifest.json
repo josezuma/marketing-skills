@@ -1,0 +1,14 @@
+{
+  "name": "marketing-skills",
+  "description": "Pack of 6 agent skills for GEO marketing",
+  "author": "brandvirality",
+  "version": "1.0.0",
+  "skills": [
+    "skills/content-brief",
+    "skills/geo-rewriter",
+    "skills/schema-generator",
+    "skills/competitor-snapshot",
+    "skills/headline-optimizer",
+    "skills/social-repurposer"
+  ]
+}

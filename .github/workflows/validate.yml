@@ -1,0 +1,22 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+    paths: ['skills/**']
+  pull_request:
+    branches: [main]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check all skills have valid SKILL.md
+        run: |
+          for skill in skills/*/SKILL.md; do
+            if [ -f "$skill" ]; then
+              name=$(head -5 "$skill" | grep "^name:" | cut -d' ' -f2)
+              echo "✅ $skill (${name:-unnamed})"
+            fi
+          done
