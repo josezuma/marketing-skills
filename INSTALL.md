@@ -1,6 +1,5 @@
 # Installation
 
-## Claude Code
 ```bash
-claude code --skill /path/to/skills/content-brief
+claude code --skill skills/content-brief
 ```
