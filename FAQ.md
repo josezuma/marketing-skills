@@ -1,3 +1,10 @@
-# Faq
+# FAQ
 
-Documentation for marketing-skills.
+## What is marketing-skills?
+Marketing Skills
+
+## Dependencies?
+Python stdlib only.
+
+## Author
+Jose Zuma
